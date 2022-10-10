@@ -24,4 +24,15 @@ func main() {
 		lastName  = "Linggo"
 	)
 	fmt.Println("my name is : ", firstName, lastName)
+
+	const mother_name = "sri"
+
+	fmt.Println(mother_name)
+
+	const (
+		father_name  = "suci"
+		brother_name = "tidak suci"
+	)
+
+	fmt.Println(father_name, brother_name)
 }
