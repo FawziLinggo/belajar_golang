@@ -1,3 +1,3 @@
-module github.com/FawziLinggo/belajar_golang
+module main
 
 go 1.18

@@ -1,6 +1,6 @@
 package main
 
-import "/helper"
+import "main/helper"
 
 func main() {
 	helper.SayHai("fawzi")
